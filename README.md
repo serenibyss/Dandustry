@@ -12,5 +12,5 @@ With **coremod and mixin support** that is easy to configure.
 2. Clone the repository you have created with this template.
 3. In the local repository, run the command `gradlew setupDecompWorkspace idea`
 4. Open the `.ipr` file in IDEA.
-5. Right-click in IDEA `build.gradle` of your project, and select `Link Gradle Project`, after completion, hit `Refresh All` in the gradle tab on the right.
+5.  in IDEA, Right-click`build.gradle` of your project, and select `Link Gradle Project`, after completion, hit `Refresh All` in the gradle tab on the right.
 6. Instead of running `genIntellijRuns` and using generated IntelliJ tasks, just run `gradlew runClient` and `gradlew runServer`.
